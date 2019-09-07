@@ -1,6 +1,7 @@
 from material.admin.options import MaterialModelAdmin
 from django.contrib import admin
 from material.admin.sites import site
+from django.db.models import Sum
 
 from.models import Paciente,Convenio,Medico,Agendamento,Receita,Financeiro,Resultado,Prontuario
 
@@ -42,10 +43,12 @@ class ReceitaAdmin(MaterialModelAdmin):
     icon_name = 'assignment'
     
 class FinanceiroAdmin(MaterialModelAdmin):
-    list_display = ('Paciente', 'Data_vencimento', 'Data_pagamento','Valor','Status','Operacao','descricao')  
+    list_display = ('Paciente', 'Data_vencimento', 'Data_pagamento','Valor','Status','Operacao','descricao','total')  
     icon_name = 'credit_card'
     list_filter = ('Status',)
     search_fields = ('Status,','Data_vencimento')
+
+
 
 class ResultadoAdmin(MaterialModelAdmin):
     list_display = ('Paciente', 'Data', 'Medico')  

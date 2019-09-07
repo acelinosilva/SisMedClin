@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models import Sum
 
 
 class Paciente(models.Model):
@@ -220,7 +221,8 @@ class Financeiro(models.Model):
     Operacao = models.CharField(max_length=2, choices=TIPO_OPERACAO,blank=True)
     descricao = models.TextField(blank=True)
 
-            
+    def total(self):
+        Financeiro.objects.aggregate(total=Sum('Valor'))
     
 class Resultado(models.Model):
     Paciente = models.ForeignKey(Paciente, on_delete=models.PROTECT)
