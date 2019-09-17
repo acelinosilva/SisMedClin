@@ -68,7 +68,9 @@ O sistema conta com ferramentas bem simples, porém podem ajudar no dia a dia em
 
 # DEMONSTRAÇÃO 
 
-Acesse o link para a demonstração online do sistema.
+[DEMO SISMEDCLIN NO HEROKU](https://sismedclin.herokuapp.com/)
+usuario: admin
+senha: demo
 
 [breve]
 
