@@ -6,8 +6,7 @@
 # Sobre 
 
 Este é meu primeiro sistema desenvolvido após me formar na faculdade de Sistemas de Informação, por isso tem um grande valor profissional.
-Este sistema foi desenvolvido utilizando a linguagem de programação Python e o Framework Django, que é desenvolvido utilizando a mesma linguagem.
-O sistema pode ser utilizado na maioria dos segmentos de clinicas médicas e de consultórios, pois as ferramentas implementas no sistema se adequam em ambas.
+Apesar de não estar perfeito, tentei implemetar nele os conhecimentos adquiridos.
 
 ## O Sistema
 
