@@ -51,9 +51,6 @@ O sistema conta com ferramentas bem simples, porém podem ajudar no dia a dia em
 **Home page** 
 ![screencapture-127-0-0-1-8000-2019-09-05-21_44_01](https://user-images.githubusercontent.com/36600320/64458095-cc3c8400-d0ca-11e9-8e7f-04c40067e76d.png)
 
-**Pagina de Login**
-
-![screencapture-127-0-0-1-8000-admin-login-2019-09-05-21_44_50](https://user-images.githubusercontent.com/36600320/64458121-e24a4480-d0ca-11e9-9f89-7202c8176a25.png)
 
 **Pagina inicial do painel administrativo**
 ![screenshot-127 0 0 1-8000-2019 09 05-21-50-26](https://user-images.githubusercontent.com/36600320/64458153-f42be780-d0ca-11e9-8d35-a3a611e42b6b.png)
@@ -62,8 +59,6 @@ O sistema conta com ferramentas bem simples, porém podem ajudar no dia a dia em
 
 ![FireShot Capture 001 - Adicionar agendamento - SisMedClin - Sistema web para Clinicas e Cons_ - 127 0 0 1](https://user-images.githubusercontent.com/36600320/64458173-00b04000-d0cb-11e9-95d6-f2e64ec5ae3b.png)
 
-**Pagina de logout**
-![FireShot Capture 003 - Sessão encerrada - SisMedClin - Sistema web para Clinicas e Consultor_ - 127 0 0 1](https://user-images.githubusercontent.com/36600320/64458185-0d349880-d0cb-11e9-9276-ca4ec5ff663c.png)
 
 
 # DEMONSTRAÇÃO 
