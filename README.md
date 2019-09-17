@@ -69,10 +69,11 @@ O sistema conta com ferramentas bem simples, porém podem ajudar no dia a dia em
 # DEMONSTRAÇÃO 
 
 [DEMO SISMEDCLIN NO HEROKU](https://sismedclin.herokuapp.com/)
+
 usuario: admin
 senha: demo
 
-[breve]
+
 
 # Contatos
 **Acelino Fernandes** 
