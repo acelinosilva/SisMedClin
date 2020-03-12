@@ -65,14 +65,16 @@ O sistema conta com ferramentas bem simples, porém podem ajudar no dia a dia em
 [DEMO SISMEDCLIN NO HEROKU](https://sismedclin.herokuapp.com/admin)
 
 usuario: admin
-senha: demo
+senha: admin123
 
 
 
 # Contatos
 **Acelino Fernandes** 
 
- [Linkedin](https://www.linkedin.com/in/acelino-fernandes-da-silva-neto-bb017185/)
+ [Site](https://www.aceweb.online)
+ 
+ [Linkedin](https://www.linkedin.com/in/acelinofernandes)
  
  [Facebook](https://www.facebook.com/acelinofernandesdf)
 
